@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+body {
+  height: 100%;
+  background: #ececec;
+}
+
+.logo {
+  width: 120px;
+  height: 31px;
+  border-radius: 6px;
+  float: left;
+}
