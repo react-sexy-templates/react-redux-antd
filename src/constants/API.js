@@ -1,2 +1,2 @@
 
-export const USER_INFO_URL = '/ape/userdata'
+export const TEST_URL = '/test/url'

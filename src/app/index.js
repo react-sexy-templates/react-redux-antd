@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
 import { Provider } from 'react-redux'
-import configureStores from '../store'
+import configureStores from '@/store'
 
-import RootRouter from '../router'
+import RootRouter from '@/router'
 
 import './app.css'
 

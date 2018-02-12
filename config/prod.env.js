@@ -1,4 +1,4 @@
+'use strict'
 module.exports = {
-  NODE_ENV: '"prod"',
-  BUILD_TIMESTAMP: Date.now()
+  NODE_ENV: '"production"'
 }
